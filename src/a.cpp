@@ -6,7 +6,8 @@
  * @ For text
  *
  */
-#include<stdio>
-void main(){
-printf("This program witmesses my frist useing of Git and Github.");
+#include<stdio.h>
+int main(){
+printf("\nThis program witmesses my frist useing of Git and Github.\n");
+return 0;
 }
